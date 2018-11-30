@@ -1,7 +1,7 @@
 # LearningByDoing
 
 This is a learning repository by Alexander D. and Kevin S.
-We will try to publish usefull tips and tutorials on our every-day-wrokflow and try to improve our git skills along the way.
+We will try to publish usefull tips and tutorials on our every-day-workflow and try to improve our git skills along the way.
 
 ## How to write a good README
 
