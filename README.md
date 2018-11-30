@@ -12,6 +12,12 @@ A quick tutorial for markdown in Github can be found [here](https://guides.githu
 
 A good start is this [github workflow tutorial](https://guides.github.com/introduction/flow/), for further questions use the [git book](https://git-scm.com/book/en/v2).
 
+## Get started with the wiki
+```
+git clone git@gitlab.com:heisenderp/learningbydoing.wiki.git
+cd learningbydoing.wiki
+```
+
 ## Possible themes for future work
 1. Basic Git Workflow
 2. Unix commands
@@ -19,4 +25,3 @@ A good start is this [github workflow tutorial](https://guides.github.com/introd
 4. Everyday apps (anki, ...)
 5. vim
 6. dotfiles
-7. How to write git wikis
