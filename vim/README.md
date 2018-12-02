@@ -29,3 +29,11 @@ Example:
 This is very usefull when writing one line commands like:
 ```
 There are plenty more completion modes then ^L.
+
+## Clipboard action
+###Copy to system clipboard
+Vim needs to be compiled with system clipboard access
+```
+"* Y
+```
+Yanks line in register \*, which is system clipboard. (Might also be + instead of \*)
