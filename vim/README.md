@@ -37,3 +37,12 @@ Vim needs to be compiled with system clipboard access
 "* Y
 ```
 Yanks line in register \*, which is system clipboard. (Might also be + instead of \*)
+
+## Holy shit ctags
+Do this in directery with fithon pyles or similar
+'''
+ctags -R .
+'''
+Den in vim on function Ctrl+]
+Its magic, you jump to definition, even in other files
+Such cool
